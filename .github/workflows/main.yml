@@ -1,0 +1,4 @@
+# On your local machine, in the repo folder
+git add .github/workflows/main.yml
+git commit -m "feat: add simple github action"
+git push origin main
