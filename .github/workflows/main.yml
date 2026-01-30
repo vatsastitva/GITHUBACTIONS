@@ -23,5 +23,5 @@ jobs:
       - name: "21f3003255@ds.study.iitm.ac.in"
         run: echo "This step is being checked by the grader!"
 
-      - name: "Second 21f3003255@ds.study.iitm.ac.in"
+      - name: Second job
         run: echo "Hello, world!"
